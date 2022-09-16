@@ -1,0 +1,15 @@
+C:\Users\MDT\Desktop\qiuz11\bin\Debug\net6.0\qiuz11.exe
+C:\Users\MDT\Desktop\qiuz11\bin\Debug\net6.0\qiuz11.deps.json
+C:\Users\MDT\Desktop\qiuz11\bin\Debug\net6.0\qiuz11.runtimeconfig.json
+C:\Users\MDT\Desktop\qiuz11\bin\Debug\net6.0\qiuz11.dll
+C:\Users\MDT\Desktop\qiuz11\bin\Debug\net6.0\qiuz11.pdb
+C:\Users\MDT\Desktop\qiuz11\obj\Debug\net6.0\qiuz11.csproj.AssemblyReference.cache
+C:\Users\MDT\Desktop\qiuz11\obj\Debug\net6.0\qiuz11.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MDT\Desktop\qiuz11\obj\Debug\net6.0\qiuz11.AssemblyInfoInputs.cache
+C:\Users\MDT\Desktop\qiuz11\obj\Debug\net6.0\qiuz11.AssemblyInfo.cs
+C:\Users\MDT\Desktop\qiuz11\obj\Debug\net6.0\qiuz11.csproj.CoreCompileInputs.cache
+C:\Users\MDT\Desktop\qiuz11\obj\Debug\net6.0\qiuz11.dll
+C:\Users\MDT\Desktop\qiuz11\obj\Debug\net6.0\refint\qiuz11.dll
+C:\Users\MDT\Desktop\qiuz11\obj\Debug\net6.0\qiuz11.pdb
+C:\Users\MDT\Desktop\qiuz11\obj\Debug\net6.0\qiuz11.genruntimeconfig.cache
+C:\Users\MDT\Desktop\qiuz11\obj\Debug\net6.0\ref\qiuz11.dll
